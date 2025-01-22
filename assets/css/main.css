@@ -1806,7 +1806,12 @@ input, select, textarea {
 		body.is-ie header.major > h1:after {
 			max-width: 100% !important;
 		}
-
+		
+		header.major h3 {
+			word-wrap: break-word;
+			white-space: normal;
+		}
+		
 	@media screen and (max-width: 736px) {
 
 		header.major > p br {
@@ -3849,9 +3854,6 @@ input, select, textarea {
 			}
 
 				#menu ul.links > li {
-						white-space: nowrap; /* Prevent text wrapping */
-						overflow: hidden; /* Ensure overflow text is clipped */
-						text-overflow: ellipsis; /* Optional: Adds ellipsis for clipped text */
 					padding: 0;
 				}
 

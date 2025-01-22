@@ -1,32 +1,37 @@
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+ePortifolio PGD Cert Essex
+This ePortfolio was designed to show the result of my Postgraduate Certificate studies in Artificial Intelligence at the University of Essex, UK.
 
+Check my ePortfolio
 
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
+Module 1: Understanding Artificial Intelligence
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Content Summary
 
-(* = not included)
+Unit 1-3: Collaborative Learning Discussion 1
+Unit 4: Understanding the Process of Developing a Learning System
+Unit 5: Learning System Development - Machine Learning and Deep Learning
+Unit 6-8: Collaborative Learning Discussion 2
+Unit 9: Essay on Artificial Intelligence and its Applications
+Unit 10-12: End of Module Assignment - Artificial Intelligence (AI) Solution Implementation
 
-AJ
-aj@lkn.io | @ajlkn
+Module 2: Numerical Analysis / Data Science
 
+Content Summary
 
-Credits:
+Unit 1-7: Introduction to Statistics and Data Analysis
+Unit 7: Statistics Test
+Unit 8-9: Application of Descriptive Statistics and Visualisation
+Unit 10-12: End of Module Assignment - Statistical Analysis Presentation and Individual Reflection
 
-	Demo Images:
-		Unsplash (unsplash.com)
+Module 3: Machine Learning 
 
-	Icons:
-		Font Awesome (fontawesome.io)
+Content Summary
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Unit 1-3: Collaborative Discussion - 4th Industrial Revolution
+Unit 3-5: Applied Learning on Correlation, Regression, Jaccard Coefficient Calculations
+Unit 6: Development Team Project - Project Report
+Unit 7: Perceptron Activities
+Unit 8-10: Collaborative Discussion - Legal & Ethical views on Artificial Neural Networks (ANN) applications
+Unit 9: Convolutional Neural Networks (CNN) for Object Recognition
+Unit 11: Model Performance Measurement 
+Unit 12: End of Module Assignment- e-Portfolio Submission
