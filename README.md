@@ -1,7 +1,7 @@
 # ePortfolio PGD Cert Essex
 This ePortfolio was designed to show the result of my Postgraduate Certificate studies in Artificial Intelligence at the University of Essex, UK.
 
-Check my [ePortfolio](https://natali-nik.github.io/e-portfolio/))
+Check my [ePortfolio](https://natali-nik.github.io/e-portfolio/)
 
 ## Module 1: Understanding Artificial Intelligence
 
