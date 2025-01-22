@@ -1,11 +1,11 @@
-ePortifolio PGD Cert Essex
+# ePortfolio PGD Cert Essex
 This ePortfolio was designed to show the result of my Postgraduate Certificate studies in Artificial Intelligence at the University of Essex, UK.
 
-Check my ePortfolio
+[Check my ePortfolio](https://natali-nik.github.io/e-portfolio/))
 
-*Module 1: Understanding Artificial Intelligence*
+## Module 1: Understanding Artificial Intelligence
 
-Content Summary
+### Content Summary
 
 Unit 1-3: Collaborative Learning Discussion 1
 Unit 4: Understanding the Process of Developing a Learning System
@@ -14,18 +14,18 @@ Unit 6-8: Collaborative Learning Discussion 2
 Unit 9: Essay on Artificial Intelligence and its Applications
 Unit 10-12: End of Module Assignment - Artificial Intelligence (AI) Solution Implementation
 
-Module 2: Numerical Analysis / Data Science
+## Module 2: Numerical Analysis / Data Science
 
-Content Summary
+### Content Summary
 
 Unit 1-7: Introduction to Statistics and Data Analysis
 Unit 7: Statistics Test
 Unit 8-9: Application of Descriptive Statistics and Visualisation
 Unit 10-12: End of Module Assignment - Statistical Analysis Presentation and Individual Reflection
 
-Module 3: Machine Learning 
+## Module 3: Machine Learning
 
-Content Summary
+### Content Summary
 
 Unit 1-3: Collaborative Discussion - 4th Industrial Revolution
 Unit 3-5: Applied Learning on Correlation, Regression, Jaccard Coefficient Calculations
