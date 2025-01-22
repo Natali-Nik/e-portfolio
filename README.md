@@ -3,7 +3,7 @@ This ePortfolio was designed to show the result of my Postgraduate Certificate s
 
 Check my ePortfolio
 
-Module 1: Understanding Artificial Intelligence
+*Module 1: Understanding Artificial Intelligence*
 
 Content Summary
 
