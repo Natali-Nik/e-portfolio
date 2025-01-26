@@ -1,12 +1,12 @@
 # ePortfolio PGD Cert Essex
 
-This e-portfolio showcases the work completed as part of Module 3: Machine Learning of my Postgraduate Certificate studies in Artificial Intelligence at the University of Essex, UK.. Modules 1 and 2 are included for reference and completeness but are not yet integrated into the portfolio. They will be fully added at a later stage.
+This e-portfolio showcases the work completed as part of **Module 3**: Machine Learning of my Postgraduate Certificate studies in Artificial Intelligence at the University of Essex, UK.. Modules 1 and 2 are included for reference and completeness but are not yet integrated into the portfolio. They will be fully added at a later stage.
 
 Check my [ePortfolio](https://natali-nik.github.io/e-portfolio/)
 
 # E-Portfolio Overview
 
-This e-portfolio showcases the work completed as part of Module 3: Machine Learning. Modules 1 and 2 are included for reference and completeness but are not yet integrated into the portfolio. They will be fully added at a later stage.
+This e-portfolio showcases the work completed as part of **Module 3**: Machine Learning. Modules 1 and 2 are included for reference and completeness but are not yet integrated into the portfolio. They will be fully added at a later stage.
 
 ## Module 1: Understanding Artificial Intelligence
 
