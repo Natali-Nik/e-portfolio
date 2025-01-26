@@ -34,7 +34,7 @@ Check my [ePortfolio](https://natali-nik.github.io/e-portfolio/)
 
 ## Module 3: Machine Learning
 
-> **Note:** This is the **primary focus of the current e-portfolio**.
+> **Note: This is the primary focus of the current e-portfolio**.
 
 #### Content Summary
 
