@@ -1,0 +1,14 @@
+Category,Details
+Tools and Libraries Used,Python: Programming language for data analysis and modeling.
+,"Pandas: For data manipulation (renaming columns, date conversions, handling missing values) "
+,NumPy: For numerical operations like creating arrays and calculating
+,"Seaborn: For visualizations such as scatterplots, histograms, and box plots"
+,"Matplotlib: For plotting graphs, including RMSE trends and prediction"
+,Scikit-learn: LinearRegression (Polynomial regression model)
+," PolynomialFeatures (Generate polynomial features), train_test_split (Split data into training/testing sets)"
+," Evaluation Metrics (MAE, MSE, and R² for model performance)."
+Key Statistical and Visualization Techniques,Outlier Detection: Box plots identified price outliers for cleaning
+,"Variable Distribution: Histograms with KDE showed price trends, centrality, and spread"
+,Spatial Distribution: Scatterplots (Lot vs. Lat) revealed geographic pricing patterns
+,Aggregation: Grouping by neighborhood calculated and ranked average prices
+,Bar Plot: Highlighted neighborhoods with the highest average Airbnb prices.
