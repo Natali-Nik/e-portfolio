@@ -4,7 +4,9 @@ This e-portfolio showcases the work completed as part of **Module 3**: Machine L
 
 Check my [ePortfolio](https://natali-nik.github.io/e-portfolio/)
 
-## E-Portfolio Overview
+
+
+# E-Portfolio Overview
 
 **This e-portfolio showcases the work completed as part of Module 3: Machine Learning**. Modules 1 and 2 are included for reference and completeness but are not yet integrated into the portfolio. They will be fully added at a later stage.
 
