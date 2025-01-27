@@ -283,17 +283,30 @@ input, select, textarea {
 			margin: 3em 0;
 		}
 
-	.align-left {
-		text-align: left;
-	}
-
-	.align-center {
-		text-align: center;
-	}
-
-	.align-right {
-		text-align: right;
-	}
+		p {
+			text-align: justify; /* Add this rule */
+		}
+		
+		.align-left {
+			text-align: left;
+		}
+		
+		.align-center {
+			text-align: center;
+		}
+		
+		.align-right {
+			text-align: right;
+		}
+		
+		.align-justify {
+			text-align: justify;
+		}
+		li {
+			text-align: justify;
+		}
+		
+		
 
 /* Row */
 
@@ -3847,6 +3860,7 @@ input, select, textarea {
 			#menu ul.links {
 				list-style: none;
 				padding: 0;
+				text-align: center; /* Added to center-align menu links */
 			}
 
 				#menu ul.links > li {
@@ -3863,6 +3877,7 @@ input, select, textarea {
 						line-height: 4em;
 						text-decoration: none;
 						text-transform: uppercase;
+						text-align: center; /* Center-aligns text inside the links */
 					}
 
 					#menu ul.links > li > .button {
