@@ -1806,25 +1806,17 @@ input, select, textarea {
 		body.is-ie header.major > h1:after {
 			max-width: 100% !important;
 		}
-		
-		/* Updated header.major h3 block */
 		header.major h3 {
-    		word-wrap: break-word;
-    		overflow-wrap: break-word;
-    		white-space: normal;
-    		line-height: 1.4;
-    		font-size: 1.5em;
-}
+			word-wrap: break-word;
+			white-space: normal;
+		}
 		
 	@media screen and (max-width: 736px) {
 
 		header.major > p br {
 			display: none;
 		}
-		header.major h3 {
-			font-size: 1.2em;
-			line-height: 1.2;
-		}
+
 	}
 
 /* Form */
@@ -2632,7 +2624,6 @@ input, select, textarea {
 				position: absolute;
 				right: 1.5em;
 				top: 0;
-				vertical-align: middle;
 				width: 36px;
 			}
 
@@ -3197,7 +3188,6 @@ input, select, textarea {
 				line-height: inherit;
 				padding: 0 0.75em;
 				position: relative;
-				vertical-align: middle;
 			}
 
 				#header nav a:last-child {
@@ -3219,7 +3209,6 @@ input, select, textarea {
 						position: absolute;
 						right: 1.5em;
 						top: 0;
-						vertical-align: middle;
 						width: 24px;
 					}
 
@@ -3903,7 +3892,6 @@ input, select, textarea {
 			text-align: right;
 			text-indent: 8em;
 			top: 0;
-			vertical-align: middle;
 			white-space: nowrap;
 			width: 8em;
 		}
