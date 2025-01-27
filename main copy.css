@@ -1807,24 +1807,17 @@ input, select, textarea {
 			max-width: 100% !important;
 		}
 		
-		/* Updated header.major h3 block */
 		header.major h3 {
-    		word-wrap: break-word;
-    		overflow-wrap: break-word;
-    		white-space: normal;
-    		line-height: 1.4;
-    		font-size: 1.5em;
-}
+			word-wrap: break-word;
+			white-space: normal;
+		}
 		
 	@media screen and (max-width: 736px) {
 
 		header.major > p br {
 			display: none;
 		}
-		header.major h3 {
-			font-size: 1.2em;
-			line-height: 1.2;
-		}
+
 	}
 
 /* Form */
