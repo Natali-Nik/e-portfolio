@@ -48,3 +48,5 @@ Check my [ePortfolio](https://natali-nik.github.io/e-portfolio/)
 - Unit 9: Convolutional Neural Networks (CNN) for Object Recognition
 - Unit 11: Model Performance Measurement 
 - Unit 12: End of Module Assignment - e-Portfolio Submission
+
+Note: Some of the non-exercise and assignment-related images included in this portfolio were created using generative AI tools (https://chatgpt.com), but have been named accordingly.
