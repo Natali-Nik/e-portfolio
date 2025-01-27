@@ -165,7 +165,10 @@
 				];
 			
 				// Get the current page's filename
-				const currentPage = window.location.pathname.split("/").pop();
+				let currentPage = window.location.pathname.split("/").pop();
+				if (currentPage === "") {
+					currentPage = "index.html"; // Treat empty path as "index.html"
+				}
 			
 				// Find the index of the current page in the pages array
 				const currentIndex = pages.findIndex(page => page.url === currentPage);
@@ -207,5 +210,6 @@
 				const footer = document.getElementById('footer');
 				footer.parentNode.insertBefore(paginationContainer, footer);
 			</script>
+			
 	</body>
 </html>
